@@ -1,0 +1,48 @@
+[01-Jul-2022 16:41:49 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[01-Jul-2022 16:41:49 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[01-Jul-2022 16:41:49 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 182
+[01-Jul-2022 16:41:49 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[01-Jul-2022 16:41:50 Europe/Berlin] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 4723
+[01-Jul-2022 16:41:50 Europe/Berlin] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5066
+[01-Jul-2022 16:41:50 Europe/Berlin] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:50 Europe/Berlin] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:50 Europe/Berlin] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:51 Europe/Berlin] PHP Deprecated:  Required parameter $pattern_name follows optional parameter $corner_style in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Renderer\AbstractRenderer.php on line 827
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 182
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 4723
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5066
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:53 Europe/Berlin] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[01-Jul-2022 16:41:54 Europe/Berlin] PHP Deprecated:  Required parameter $pattern_name follows optional parameter $corner_style in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Renderer\AbstractRenderer.php on line 827
+[01-Jul-2022 16:41:55 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[01-Jul-2022 16:41:55 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 182
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 4723
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5066
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:47 Europe/Berlin] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $pattern_name follows optional parameter $corner_style in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Renderer\AbstractRenderer.php on line 827
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 182
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 4723
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5066
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\lib\Cpdf.php on line 5410
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Required parameter $pattern_name follows optional parameter $corner_style in C:\xampp\htdocs\creditfacilityproject\vendor\dompdf\dompdf\src\Renderer\AbstractRenderer.php on line 827
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 645
+[07-Jul-2022 10:50:48 Europe/Berlin] PHP Deprecated:  Function libxml_disable_entity_loader() is deprecated in C:\xampp\htdocs\creditfacilityproject\system\BaseView.php on line 648
